@@ -1,2 +1,1 @@
-pandas
-numpy
+## this is git tutorial by krish
